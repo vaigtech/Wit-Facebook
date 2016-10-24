@@ -20,7 +20,6 @@ const wit = bot.getWit();
 const PORT = process.env.PORT || 8445;
 
 // Wit.ai bot specific code
-
 // This will contain all user sessions.
 // Each session has an entry:
 // sessionId -> {fbid: facebookUserId, context: sessionState}
