@@ -5,7 +5,6 @@
 // * a Wit.ai bot setup (https://wit.ai/docs/quickstart)
 // * a Messenger Platform setup (https://developers.facebook.com/docs/messenger-platform/quickstart)
 // You need to `npm install` the following dependencies: body-parser, express, request.
-//
 const bodyParser = require('body-parser');
 const express = require('express');
 
