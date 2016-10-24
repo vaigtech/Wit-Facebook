@@ -54,7 +54,6 @@ const getFirstMessagingEntry = (body) => {
   return val || null;
 };
 
-
 module.exports = {
   getFirstMessagingEntry: getFirstMessagingEntry,
   fbMessage: fbMessage,
